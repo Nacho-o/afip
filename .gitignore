@@ -1,0 +1,10 @@
+# Ignorar el entorno virtual
+venv/
+
+# Ignorar el archivo .env
+.env
+explain.txt
+pytest.ini
+test.db
+tests/
+migrations/
